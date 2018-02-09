@@ -22,7 +22,7 @@ We use [GitHub](http://semver.org/) for versioning. For the versions available, 
 
 * **Brian Okinyi** - *Initial work* - (https://github.com/brianokinyi)
 
-See also the list of [contributors]https://github.com/CSOK/csok.github.io/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/CSOK/csok.github.io/graphs/contributors) who participated in this project.
 
 ## License
 
