@@ -2,11 +2,13 @@
 
 This is the official Website for the Computer Society of Kimathi.
 
+[Live Demo](https://www.csokimathi.club/) or [https://www.csokimathi.club/](https://www.csokimathi.club/)
 
 ## Built With
+* [Python/Django 2.0](https://www.djangoproject.com/) 
+* [Angular 5](https://angular.io/) 
+* [Bootstrap 4.0](https://getbootstrap.com/) 
 
-* [Bootstrap](https://github.com/brianokinyi/csk_webs) 
-* [Angular](https://github.com/brianokinyi/csk_webs) 
 
 ## Contributing
 
@@ -20,11 +22,11 @@ We use [GitHub](http://semver.org/) for versioning. For the versions available, 
 
 * **Brian Okinyi** - *Initial work* - (https://github.com/brianokinyi)
 
-See also the list of [contributors]https://github.com/CSOK/csok.github.io/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/CSOK/csok.github.io/graphs/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-[Antony Orenge](https://www.antonyorenge.com/)
+[Antony Orenge](https://www.antonyorenge.com/) *Founder and First CSK President, Senior Software Engineer - Estonia, Northern Europe*
