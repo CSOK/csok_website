@@ -2,12 +2,12 @@
 
 This is the official Website for the Computer Society of Kimathi.
 
-* [Live Demo](https://www.csokimathi.club/)
+[Live Demo](https://www.csokimathi.club/) or [https://www.csokimathi.club/](https://www.csokimathi.club/)
 
 ## Built With
 * [Python/Django 2.0](https://www.djangoproject.com/) 
 * [Angular 5](https://angular.io/) 
-* [Bootstrap 4.0]https://getbootstrap.com/) 
+* [Bootstrap 4.0](https://getbootstrap.com/) 
 
 
 ## Contributing
